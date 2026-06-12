@@ -1,0 +1,11 @@
+[project]
+name = "air"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "adafruit-circuitpython-ccs811>=1.3.24",
+    "pyserial>=3.5",
+    "sds011lib>=0.4.0",
+]

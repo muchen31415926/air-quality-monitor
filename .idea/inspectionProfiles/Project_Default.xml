@@ -1,0 +1,21 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="colorama" />
+          <option value="decorator" />
+          <option value="ImageIO" />
+          <option value="imageio-ffmpeg" />
+          <option value="moviepy" />
+          <option value="numpy" />
+          <option value="pillow" />
+          <option value="proglog" />
+          <option value="tqdm" />
+          <option value="pygame" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
